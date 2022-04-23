@@ -1,0 +1,11 @@
+{
+  "name": "dx_ball",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "browser-sync start --server -f -w"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.9",
+    "p5": "^1.4.1"
+  }
+}
